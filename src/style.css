@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to top right, #0f172a, #0f172a, #0f172a, #0f172a, #0f172a, #0f172a,#0f172a, #253037, #253037, #0f172a);
+    width: 100vw;
+    min-height: 100vh;
+}
+
+button {
+    font-size: 50px;
+    font-family: sans-serif;
+    border-radius: 10px;
+    background-color: rgb(99, 102, 241);
+    color: white;
+    padding: 20px;
+    margin: 30px calc(max(15vw, 50vw - 300px));
+    width: 69vw;
+    max-width: 600px;
+}
+
+#content {
+    margin: 30px 10px;
+    text-align: center;
+    width: 100vw;
+}
+
+#content div {
+    font-size: 50px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: white;
+}
