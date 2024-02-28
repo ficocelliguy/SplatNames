@@ -87,6 +87,7 @@ export const suffixes = [
 
 export const extraSuffixes = [
     "of America",
+    "of AA",
     "( TM )",
     "of Michigan",
     "and Company",
